@@ -7,10 +7,11 @@ import LeadsTable from './components/LeadsTable'
 import { Rocket, BarChart3, Smartphone, Users, Menu, X, Zap } from 'lucide-react'
 
 const TABS = [
-  { id: 'campaigns', label: 'Acquisition Channels', icon: Layers },
+  { id: 'campaigns', label: 'Acquisition Channels', icon: Zap },
   { id: 'simulator', label: 'AI Concierge Flow', icon: Zap },
-  { id: 'analytics', label: 'Performance Analytics', icon: BarChart2 },
-  { id: 'leads', label: 'Patient Inquiries', icon: Users }
+  { id: 'analytics', label: 'Performance Analytics', icon: Zap },
+  { id: 'leads', label: 'Patient Inquiries', icon: Zap }
+
 
   
 ]
