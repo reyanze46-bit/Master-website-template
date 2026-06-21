@@ -36,12 +36,12 @@ export default function App() {
               <div className="flex h-9 w-9 items-center justify-center rounded-xl reelflow-gradient shadow-lg shadow-indigo-500/30">
                 <Zap className="h-5 w-5 text-white" />
               </div>
-              <div>
+              <div>  
                 <h1 className="text-lg font-bold tracking-tight">
-                  <span className="reelflow-gradient-text">ReelFlow</span>
-                </h1>
-                <p className="text-[10px] text-gray-500 -mt-0.5">Reel → Lead Automation</p>
-              </div>
+          <span className="reelflow-gradient-text">Digital Patient Concierge</span>
+        </h1>
+        <p className="text-[10px] text-gray-500 -mt-0.5">La Clinique Monte-Carlo — Monaco</p>
+             </div>
             </div>
 
             {/* Desktop Nav */}
